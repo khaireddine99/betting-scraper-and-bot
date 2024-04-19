@@ -1,0 +1,30 @@
+Barys vs Dinamo Minsk
+3.25 3.90 2.05 1.60 2.35 1.65 2.20 
+Traktor vs Metallurg Magnitigorsk
+2.90 3.90 2.20 2.20 1.68 1.70 2.15 
+Lada vs Ak Bars
+4.00 3.75 1.87 1.70 2.15 1.90 1.90 
+Lokomotiv Yaroslavl vs Severstal
+1.85 3.80 3.95 2.15 1.70 1.77 2.05 
+Neftekhimik vs Kunlun Red Star
+1.63 4.60 4.60 1.78 2.03 2.15 1.70 
+HK Sochi vs SKA St. Petersburg
+4.70 4.70 1.60 2.03 1.80 1.85 1.95 
+Torpedo N.Novgorod vs Avtomobilist
+2.25 3.80 2.90 1.70 2.15 1.75 2.07 
+Amur vs Vityaz
+1.67 4.30 4.50 1.87 1.93 1.88 1.92 
+Sibir vs CSKA
+3.60 3.95 1.92 1.65 2.25 1.85 1.95 
+Salavat Yulayev vs Dynamo Moscow
+2.45 3.65 2.70 1.82 1.98 1.90 1.90 
+Avangard vs Dinamo Minsk
+1.75 4.40 3.95 2.00 1.82 2.20 1.65 
+Barys vs Torpedo N.Novgorod
+3.45 4.20 1.90 1.68 2.18 1.72 2.12 
+Traktor vs Kunlun Red Star
+1.65 4.50 4.50 1.85 1.95 1.73 2.10 
+Lada vs Metallurg Magnitigorsk
+3.10 3.95 2.10 2.30 1.60 2.07 1.75 
+Neftekhimik vs Ak Bars
+3.55 4.30 1.85 1.72 2.12 1.70 2.17 

@@ -1,0 +1,136 @@
+new changes have been added 
+**Barys vs Dinamo Minsk**
+HOME: 3.25 (no old data)
+DRAW: 3.90 (no old data)
+AWAY: 2.05 (no old data)
+AH HOME: +1 1.60 (no old data)
+AH AWAY:  -1 2.35 (no old data)
+OVER: 4.5 1.65 (no old data)
+UNDER 4.5 2.20 (no old data)
+
+**Traktor vs Metallurg Magnitigorsk**
+HOME: 2.90 (no old data)
+DRAW: 3.90 (no old data)
+AWAY: 2.20 (no old data)
+AH HOME: 0 2.20 (no old data)
+AH AWAY:  0 1.68 (no old data)
+OVER: 4.5 1.70 (no old data)
+UNDER 4.5 2.15 (no old data)
+
+**Lada vs Ak Bars**
+HOME: 4.00 (no old data)
+DRAW: 3.75 (no old data)
+AWAY: 1.87 (no old data)
+AH HOME: +1 1.70 (no old data)
+AH AWAY:  -1 2.15 (no old data)
+OVER: 4.5 1.90 (no old data)
+UNDER 4.5 1.90 (no old data)
+
+**Lokomotiv Yaroslavl vs Severstal**
+HOME: 1.85 (no old data)
+DRAW: 3.80 (no old data)
+AWAY: 3.95 (no old data)
+AH HOME: -1 2.15 (no old data)
+AH AWAY:  +1 1.70 (no old data)
+OVER: 4.5 1.77 (no old data)
+UNDER 4.5 2.05 (no old data)
+
+**Neftekhimik vs Kunlun Red Star**
+HOME: 1.63 (no old data)
+DRAW: 4.60 (no old data)
+AWAY: 4.60 (no old data)
+AH HOME: -1 1.78 (no old data)
+AH AWAY:  +1 2.03 (no old data)
+OVER: 5.5 2.15 (no old data)
+UNDER 5.5 1.70 (no old data)
+
+**HK Sochi vs SKA St. Petersburg**
+HOME: 4.70 (no old data)
+DRAW: 4.70 (no old data)
+AWAY: 1.60 (no old data)
+AH HOME: +1 2.03 (no old data)
+AH AWAY:  -1 1.80 (no old data)
+OVER: 5.5 1.85 (no old data)
+UNDER 5.5 1.95 (no old data)
+
+**Torpedo N.Novgorod vs Avtomobilist**
+HOME: 2.25 (no old data)
+DRAW: 3.80 (no old data)
+AWAY: 2.90 (no old data)
+AH HOME: 0 1.70 (no old data)
+AH AWAY:  0 2.15 (no old data)
+OVER: 4.5 1.75 (no old data)
+UNDER 4.5 2.07 (no old data)
+
+**Amur vs Vityaz**
+HOME: 1.67 (no old data)
+DRAW: 4.30 (no old data)
+AWAY: 4.50 (no old data)
+AH HOME: -1 1.87 (no old data)
+AH AWAY:  +1 1.93 (no old data)
+OVER: 4.5 1.88 (no old data)
+UNDER 4.5 1.92 (no old data)
+
+**Sibir vs CSKA**
+HOME: 3.60 (no old data)
+DRAW: 3.95 (no old data)
+AWAY: 1.92 (no old data)
+AH HOME: +1 1.65 (no old data)
+AH AWAY:  -1 2.25 (no old data)
+OVER: 4.5 1.85 (no old data)
+UNDER 4.5 1.95 (no old data)
+
+**Salavat Yulayev vs Dynamo Moscow**
+HOME: 2.45 (no old data)
+DRAW: 3.65 (no old data)
+AWAY: 2.70 (no old data)
+AH HOME: 0 1.82 (no old data)
+AH AWAY:  0 1.98 (no old data)
+OVER: 4.5 1.90 (no old data)
+UNDER 4.5 1.90 (no old data)
+
+**Avangard vs Dinamo Minsk**
+HOME: 1.75 (no old data)
+DRAW: 4.40 (no old data)
+AWAY: 3.95 (no old data)
+AH HOME: -1 2.00 (no old data)
+AH AWAY:  +1 1.82 (no old data)
+OVER: 5.5 2.20 (no old data)
+UNDER 5.5 1.65 (no old data)
+
+**Barys vs Torpedo N.Novgorod**
+HOME: 3.45 (no old data)
+DRAW: 4.20 (no old data)
+AWAY: 1.90 (no old data)
+AH HOME: +1 1.68 (no old data)
+AH AWAY:  -1 2.18 (no old data)
+OVER: 4.5 1.72 (no old data)
+UNDER 4.5 2.12 (no old data)
+
+**Traktor vs Kunlun Red Star**
+HOME: 1.65 (no old data)
+DRAW: 4.50 (no old data)
+AWAY: 4.50 (no old data)
+AH HOME: -1 1.85 (no old data)
+AH AWAY:  +1 1.95 (no old data)
+OVER: 4.5 1.73 (no old data)
+UNDER 4.5 2.10 (no old data)
+
+**Lada vs Metallurg Magnitigorsk**
+HOME: 3.10 (no old data)
+DRAW: 3.95 (no old data)
+AWAY: 2.10 (no old data)
+AH HOME: 0 2.30 (no old data)
+AH AWAY:  0 1.60 (no old data)
+OVER: 4.5 2.07 (no old data)
+UNDER 4.5 1.75 (no old data)
+
+**Neftekhimik vs Ak Bars**
+HOME: 3.55 (no old data)
+DRAW: 4.30 (no old data)
+AWAY: 1.85 (no old data)
+AH HOME: +1 1.72 (no old data)
+AH AWAY:  -1 2.12 (no old data)
+OVER: 4.5 1.70 (no old data)
+UNDER 4.5 2.17 (no old data)
+
